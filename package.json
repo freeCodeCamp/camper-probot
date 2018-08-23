@@ -2,7 +2,7 @@
   "name": "camper-probot",
   "version": "1.0.0",
   "description": "A probot application for managing freeCodeCamp's GitHub repositories.",
-  "author": "Mrugesh Mohapatra <ama+github@raisedadead.com> (https://github.com/freeCodeCamp/camper-probot)",
+  "author": "freeCodeCamp.org <team@freecodecamp.org> (https://github.com/freeCodeCamp/camper-probot)",
   "license": "ISC",
   "repository": "https://github.com/raisedadead/camper-probot.git",
   "homepage": "https://github.com/raisedadead/camper-probot",

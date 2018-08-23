@@ -20,4 +20,4 @@ For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
 ## License
 
-[ISC](LICENSE) © 2018 Mrugesh Mohapatra <ama+github@raisedadead.com> (https://github.com/freeCodeCamp/camper-probot)
+[ISC](LICENSE) © 2018 freeCodeCamp.org <team@freecodecamp.org> (https://github.com/freeCodeCamp/camper-probot)
